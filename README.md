@@ -1,6 +1,6 @@
 # npmdoc-exec-sync
 
-#### api documentation for  exec-sync (v0.1.6)  [![npm package](https://img.shields.io/npm/v/npmdoc-exec-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-exec-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-exec-sync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-exec-sync)
+#### basic api documentation for  exec-sync (v0.1.6)  [![npm package](https://img.shields.io/npm/v/npmdoc-exec-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-exec-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-exec-sync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-exec-sync)
 
 #### Execute shell command synchronously. Use this for migration scripts, cli programs, but not for regular server code.
 
